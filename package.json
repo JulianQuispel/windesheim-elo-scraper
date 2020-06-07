@@ -1,0 +1,14 @@
+{
+  "name": "elo-scraper",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Julian Quispel",
+  "license": "MIT",
+  "repository": "https://github.com/JulianQuispel/windesheim-elo-scraper",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
