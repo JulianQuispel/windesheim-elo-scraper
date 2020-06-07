@@ -14,13 +14,13 @@
     message: "Service online.",
     data: {
         version: "0.1.0",
-        name: "Windeslinks API",
+        name: "Windesfiles API",
         time: 1591530404,
         uptime: 15942.572,
-        cdn: "cdn.windeslinks.nl",
+        cdn: "cdn.windesfiles.nl",
         mirrors: [
-            "api.windeslinks.nl",
-            "api.windeslinks.se0.dev"
+            "api.windesfiles.nl",
+            "api.windesfiles.se0.dev"
         ],
         compatibility: {
             "macOS": [
